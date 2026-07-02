@@ -20,3 +20,20 @@
 ## Example:
 ### Input: -
 ### Output: 1 2 3 4 6 7 8 9 11 12 etc.
+
+# Problem 4
+## Write a program in C++ to print numbers from 0 to n that are divisible by 10.
+## Example:
+### Input: 45
+### Output: 10 20 30 40
+### Input: 10
+### Output: 10
+
+# Problem 5
+## (Display the ASCII character table) Write a program that prints all the uppercase characters of the ASCII character table. Display 5 characters per line. Characters are separated by exactly one space.
+## Example:
+### Input: -
+### Output:
+### A B C D E
+### F H I J K
+### etc.
